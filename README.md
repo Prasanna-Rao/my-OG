@@ -16,3 +16,6 @@ Still writing impeccable code;
 Increased patience for my debugging skills 😂;
 
 More love in every commit ❤️;
+
+
+{hint:: something.txt is encrypted there}
